@@ -1,0 +1,4 @@
+The instructor wrote some nonsense here.
+We should colonize Mars.  
+I think he's going to keep having us add txt and commiting it to git.
+
